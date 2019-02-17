@@ -1,0 +1,23 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "una pagina de contenido estatico",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezcor/WebServer.git"
+  },
+  "author": "dezcorjm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezcor/WebServer/issues"
+  },
+  "homepage": "https://github.com/dezcor/WebServer#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  }
+}
